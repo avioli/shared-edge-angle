@@ -1,7 +1,6 @@
 var dot = require('gl-vec3/dot')
 var sub = require('gl-vec3/subtract')
 var cross = require('gl-vec3/cross')
-var dot = require('gl-vec3/dot')
 var norm = require('gl-vec3/normalize')
 
 var tmp0 = [0,0,0]

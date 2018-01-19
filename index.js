@@ -17,5 +17,5 @@ module.exports = function (A, B) {
   sub(tmp1, B[2], B[0])
   cross(nB, tmp0, tmp1)
   norm(nB, nB)
-  return Math.acos(Math.abs(dot(nA, nB)))
+  return Math.acos(-Math.abs(dot(nA, nB)))
 }

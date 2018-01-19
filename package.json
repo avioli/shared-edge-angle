@@ -1,6 +1,6 @@
 {
   "name": "shared-edge-angle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "calculate the angle between two triangles in 3d with a shared edge",
   "dependencies": {
     "gl-vec3": "^1.0.3"
